@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-
+## Comentario agregado por Sharon
 
 app = dash.Dash(
     __name__,
